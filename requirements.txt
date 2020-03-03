@@ -1,0 +1,12 @@
+-i https://pypi.org/simple
+chainer==7.2.0
+fastrlock==0.4
+ffmpeg-python==0.2.0
+filelock==3.0.12
+future==0.18.2
+numpy==1.18.1
+pillow==7.0.0
+protobuf==3.11.3
+six==1.14.0
+tqdm==4.43.0
+typing-extensions==3.7.4.1
